@@ -29,6 +29,7 @@ body{
    color: rgb(14, 124, 136);
 }
 .profil-raisons{
+   list-style-position: inside;
    font-weight: bold;
    color:rgb(2, 2, 21); 
 }
@@ -92,6 +93,7 @@ body{
    display: inline-block;
  }
  .profil-bottom{
+   list-style-position: inside;
    background-size: cover;
    font-weight: bold;
    color: rgb(21, 16, 125);
